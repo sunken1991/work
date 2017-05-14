@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<XMLRELEASE xmlns:rrt="http://www.sample.com/dtd/">
+<Folder>
+  <FOLDERDATA>
+            <FOLDERFIELD NAME="ShippingCode" VALUE="AM0610001" />
+            <FOlDERFIELD NAME="Priority" VALUE="Medium" />
+            <FOLDERFIELD NAME="ShipmentTrackingNo" VALUE="TECHTESTNOV230629" />
+  </FOLDERDATA>
+  <DOCUMENTS>
+        <DOCUMENT>
+          <DOCUMENTDATA>
+            <DOCUMENTFIELD NAME="ShippingCode" VALUE="ZZZ001" />
+            <DOCUMENTFIELD NAME="Priority" VALUE="Medium" />
+            <DOCUMENTFIELD NAME="ShipmentTrackingNo" VALUE="TECHTESDAWDV230629" />
+			<PRIMARYFILE FILENAME="c:/data/pre/AM0610001.pdf" />
+          </DOCUMENTDATA>
+        </DOCUMENT>
+		<DOCUMENT>
+          <DOCUMENTDATA>
+            <DOCUMENTFIELD NAME="ShippingCode" VALUE="doc2" />
+            <DOCUMENTFIELD NAME="Priority" VALUE="Medium" />
+            <DOCUMENTFIELD NAME="ShipmentTrackingNo" VALUE="RERSCHTESDAWDV230629" />
+			<PRIMARYFILE FILENAME="c:/data/pre/AM0610001.pdf" />
+          </DOCUMENTDATA>
+        </DOCUMENT>
+		<DOCUMENT>
+          <DOCUMENTDATA>
+            <DOCUMENTFIELD NAME="ShippingCode" VALUE="doc3" />
+            <DOCUMENTFIELD NAME="Priority" VALUE="Medium" />
+            <DOCUMENTFIELD NAME="ShipmentTrackingNo" VALUE="SCFDCSHTESDAWDV230629" />
+			<PRIMARYFILE FILENAME="c:/data/pre/AM0610001.pdf" />
+          </DOCUMENTDATA>
+        </DOCUMENT>
+   </DOCUMENTS>
+ </Folder>
+</XMLRELEASE>
+
